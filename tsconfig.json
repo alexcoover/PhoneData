@@ -1,8 +1,7 @@
 {
     "compilerOptions" : {
-        "target": "ES6",
-        "types": ["node"],
-        "module": "CommonJS",
+        "target": "es2022",
+        "module": "NodeNext",
         "outDir": "out",
         "rootDir": "src",
         "sourceMap": true,
